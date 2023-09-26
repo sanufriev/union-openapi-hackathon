@@ -5204,6 +5204,7 @@ components:
             - TEZOS_MT
             - SOLANA
             - IMMUTABLEX
+            - APTOS
         status:
           type: string
           enum:
@@ -6688,6 +6689,7 @@ components:
         - FLOW
         - TEZOS
         - POLYGON
+        - APTOS
         - SOLANA
         - IMMUTABLEX
         - MANTLE
