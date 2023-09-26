@@ -2917,6 +2917,7 @@ components:
         - SOLANA
         - IMMUTABLEX
         - MANTLE
+        - APTOS
       example: "${blockchain}"
 
     BlockchainGroup:
@@ -2926,6 +2927,7 @@ components:
         - FLOW
         - TEZOS
         - SOLANA
+        - APTOS
 
     Payout:
       type: object
